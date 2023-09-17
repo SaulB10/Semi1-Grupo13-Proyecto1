@@ -1,0 +1,55 @@
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de entorno
+.env
+
+# Ignorar archivos generados por el sistema o IDE
+.idea/
+.vscode/
+
+# Ignorar archivos de dependencias de Node.js
+node_modules/
+
+# Ignorar archivos de construcción y resultados compilados
+/build/
+/dist/
+
+# Ignorar archivos de registros y caché
+.log/
+.cache/
+
+# Ignorar archivos de datos generados
+*.log
+*.sqlite
+
+# Ignorar archivos de credenciales o secretos
+secrets.json
+
+# Ignorar archivos de carga
+/uploads/
+
+# Ignorar archivos de registros
+*.log
+
+# Ignorar archivos de respaldo
+*.bak
+
+# Ignorar archivos de prueba
+*.test
+*.spec
+
+# Ignorar archivos de entorno de desarrollo local
+.env.local
+
+# Ignorar archivos generados por aplicaciones específicas
+# Ejemplo: archivos de compilación de Java
+*.class
+
+# Ignorar archivos generados por herramientas de construcción
+# Ejemplo: archivos de compilación de Maven
+/target/
+
+# Ignorar archivos de generación de documentación
+/doc/
