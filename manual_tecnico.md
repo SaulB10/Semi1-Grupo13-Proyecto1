@@ -33,7 +33,7 @@
 
 ![](manual_tecnico_media/media/image3.png)
 
-> ****Usuarios IAM****
+> ****Usuarios IAM****\
 >**EC2**:
 > Usuario encargado de todos los temas referentes a EC2.
 
@@ -82,7 +82,7 @@
 
 ![](manual_tecnico_media/media/image12.png)
 
-****Conclusiones****
+****Conclusiones****\
 •	Implementación Exitosa: Con la información proporcionada en este manual técnico, los usuarios deberían ser capaces de implementar con éxito una aplicación web similar a Spotify en AWS, aprovechando la configuración de dos servidores y el balanceador de carga para garantizar la disponibilidad y el rendimiento.
 
 •	Administración Eficiente y Segura: El manual ha abordado la administración eficiente y segura de la infraestructura en la nube. Los usuarios ahora tienen las herramientas necesarias para monitorear y escalar recursos, así como para abordar problemas comunes, lo que contribuirá a un funcionamiento sin problemas de la aplicación.
